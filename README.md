@@ -151,8 +151,12 @@ medicine2/
 
 ## 许可证
 
-本项目采用MIT许可证
 
-## 联系方式
 
-获取项目完整代码请联系qq:2122384040
+##完整项目代码获取请联系qq：2122384040
+
+
+
+<img width="1257" height="860" alt="c8c033134a6d56531298246eb875c3d7" src="https://github.com/user-attachments/assets/7ff5168c-bc16-4bb6-bf69-f37ab5739231" />
+
+
